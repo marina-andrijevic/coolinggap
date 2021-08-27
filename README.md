@@ -5,5 +5,5 @@ This repository contains the data and the code necessary to replicate the analys
 
 For any comments or questions about the contents of the repository, please address the corresponding author at marina.andrijevic@hu-berlin.de
 
--The script ac_data_analysis.R provides the code for the initial merging of datasets for observed and projected socio-economic variables
--The script clean_code_v2.R provides the code for replicating all the modelling steps used in the analysis as well as the figures shown in the paper 
+The script ac_data_analysis.R provides the code for the initial merging of datasets for observed and projected socio-economic variables.
+The script clean_code_v2.R provides the code for replicating all the modelling steps used in the analysis as well as the figures shown in the paper.
